@@ -1,0 +1,53 @@
+ 
+ *{
+    box-sizing: border-box;
+ }
+ 
+ body{
+    width: 700px;
+    height: 900px;
+    background-color: rgba(3, 3, 3, 0.562);
+   
+}
+.main{
+    margin-left: 250px;
+    margin-top: 50px;
+    border: 2px solid rgb(52, 33, 14);
+    width: 850px;
+    height: 1200px;
+    background-color: bisque;
+
+}
+.apj{
+    display: flex;
+    gap:15px;
+}
+h1{
+    text-align: center;
+    color: rgb(15, 38, 213);
+    
+}
+img{
+    width: 150px;
+    height: 200px;
+    border-radius: 5dvh;
+    overflow: hidden;
+    border: 2px solid rosybrown;
+    margin-left: 90px;
+    margin-top: 10px;
+
+}
+p{
+    color: rgb(3, 31, 31);
+    margin-left: 10px;
+}
+h2{
+    margin-left: 10px;
+    color: rgb(227, 157, 52);
+}
+h3{
+    margin-left: 30px;
+    color: blue;
+}
+
+

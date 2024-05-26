@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(42, 177, 136);
+   
+}
+
+
+   
+ul{
+   
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+
+}
+li{
+    float: left;
+    display: inline;
+}
+li a{
+    color: aliceblue;
+    display: block;
+    padding: 8px;
+    text-align: center;
+    padding: 14px 16px;
+    background-color: black;
+}
+li a:hover{
+    background-color: rgb(5, 179, 45);
+    
+}
+.image{
+    size-adjust: 10px;
+    
+}

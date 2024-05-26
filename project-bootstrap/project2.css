@@ -1,0 +1,45 @@
+corsel-inner,h3,p
+{  
+   color: black;
+   background-color: azure;
+}
+.text{
+    color: rgb(2, 4, 4);
+    font-size: 30px;
+    background-color: aqua;
+    text-align: center;
+}
+.col-8 p{
+    color: rgb(47, 9, 219);
+    font-size: 20px;
+}
+.a{
+    color: rgb(0, 2, 2);
+    background-color: rgb(33, 200, 94);
+    text-align: center;
+    border: 2px solid rgb(171, 61, 208);
+}
+.a:hover{
+    color: rgb(9, 32, 203);
+}
+.project h2{
+    color: black;
+    background-color: rgb(33, 200, 94);
+    text-align: center;
+    border: 2px solid rgb(138, 9, 138);
+
+}
+.form{
+    background-color: rgb(237, 202, 202);
+    color: rgb(1, 1, 1);
+}
+h3{
+    background-color: green;
+    text-align: center;
+    border: 2px solid rgb(202, 59, 200);
+    
+}
+h3:hover{
+    color: blue;
+    overflow: visible;
+}
